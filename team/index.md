@@ -48,7 +48,9 @@ nav:
 
 ## Join
 
-We have no open positions at the moment.
+[PhD position at the RIVM in collaboration with the MMB-BioIT (in Dutch)](https://www.werkenbijdeoverheid.nl/vacatures/aio-promovendus-antimicrobiele-resistentie-RIVM-2022-0173#0)
+
+%We have no open positions at the moment.%
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
